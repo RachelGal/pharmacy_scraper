@@ -24,8 +24,14 @@ This is a Python script that uses Selenium to enhance a published register of ph
 
 ## Installation
 
-1. Clone the repo or download `scraper.py`.
-2. Install required packages:
+1. **Clone the repository**
+   
+   ```bash
+   git clone https://github.com/RachelGal/pharmacy-scraper.git
+   cd pharmacy-scraper
+   ```
+   
+3. Install required packages:
 
 ```bash
 pip install -r requirements.txt
