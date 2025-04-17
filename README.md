@@ -11,6 +11,7 @@ This is a Python script that uses Selenium to enhance a published register of ph
 - Handles input from CSV or XLSX files
 - Outputs enriched data to a CSV file
 - Includes CLI for easy use
+- (Optional) Compares previous iteration of pharmacy details in CSV format and highlights changes
 
 ---
 
