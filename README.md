@@ -27,7 +27,7 @@ This is a Python script that uses Selenium to enhance a published register of ph
 1. **Clone the repository**
    
    ```bash
-   git clone https://github.com/RachelGal/pharmacy-scraper.git
+   git clone https://github.com/RachelGal/pharmacy_scraper.git
    cd pharmacy-scraper
    ```
    
