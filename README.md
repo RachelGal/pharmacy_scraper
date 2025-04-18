@@ -1,4 +1,6 @@
-# Irish Pharmacy Online Register Search
+# RX
+
+Automated Irish Pharmacy online register search
 
 This is a Python script that uses Selenium to enhance a published register of pharmacies from [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie), available  [here](https://www.psi.ie/information-and-resources/monthly-statistics), by scraping the online [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie/search-registers) register. It takes a list of names published in an excel file or csv file and returns corresponding search results from the register.
 
