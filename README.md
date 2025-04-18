@@ -1,6 +1,8 @@
-# Irish Pharmacy Online Register Scraper
+# Irish Pharmacy Online Register Search
 
-This is a Python script that uses Selenium to enhance a published register of pharmacies from [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie) by scraping the online [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie) register. It takes a list of names published in an excel file or csv file and returns corresponding search results from the register.
+This is a Python script that uses Selenium to enhance a published register of pharmacies from [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie), available  [here](https://www.psi.ie/information-and-resources/monthly-statistics), by scraping the online [Pharmaceutical Society of Ireland (PSI)](https://www.psi.ie/search-registers) register. It takes a list of names published in an excel file or csv file and returns corresponding search results from the register.
+
+The excel file can be downloaded from [here](https://www.psi.ie/information-and-resources/monthly-statistics) under the Pharmacies section. Download a copy of the Register of Pharmacies.
 
 ---
 
